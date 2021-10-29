@@ -1,0 +1,19 @@
+{
+    "name": "ferreira/framework-php",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        },
+        "files": [
+            "app/config/config.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Wagner Ferreira",
+            "email": "djwagnersp@icloud.com"
+        }
+    ],
+    "require": {}
+}
